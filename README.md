@@ -1,3 +1,7 @@
+>>⚠ Disclaimer:
+This repository is strictly restricted and intended for personal use only. It is not authorized for public access, redistribution, or modification without explicit permission. The contents of this repository are created and maintained exclusively by the owner and should not be used, shared, or altered without proper consent. Unauthorized use may result in legal action.
+By accessing this repository, you acknowledge and agree to comply with the above terms.
+
 # Face Recognition
 
 _You can also read a translated version of this file [in Chinese 简体中文版](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md) or [in Korean 한국어](https://github.com/ageitgey/face_recognition/blob/master/README_Korean.md) or [in Japanese 日本語](https://github.com/m-i-k-i/face_recognition/blob/master/README_Japanese.md)._
